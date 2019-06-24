@@ -1,0 +1,31 @@
+doctype command
+    tells the browser that this is a HTML document and is in line with HTML standards
+Head element
+    This is where the HTML page is set up contains the meta tag and links to additional resources.
+Semantic HTML 
+    This is the process of using code that is ordered correctly, it will also seek to be as short and concise as possible.  Lastly code should follow the standard flow of informaiton and readibility guidelines.
+    This also means code is designed to be as accecable as possible.
+Classes VS Ids
+    Classes classify data into broad groups where as a ID is a unique identifier for that specic part of data
+Box sizing: border-box and its advantages
+    content-box: the default. Width and height values apply to the element's content only. The padding and border are added to the outside of the box.
+    padding-box: Width and height values apply to the element's content and its padding. The border is added to the outside of the box. Currently, only Firefox supports the padding-box value.
+    border-box: Width and height values apply to the content, padding, and border.
+    inherit: inherits the box sizing of the parent element.
+    -By using Border-box it makes it so whatever you set the width or height to that is the size it will be without having to figure out the border and padding
+Block level Vs Inline
+    Block leve would be elements that will contain other inline or block leve elements and tags
+        EX) Div, header, main, nav, footer, List tags
+        They will take up the full Width avalible
+    Inline Elements will appear with in another element
+        these will only take up as much width as neccasary
+When would you use a <form> element
+    When you need to create a element where you can enter and capture data 
+What are media queries?
+    Allows you to set conditons that will apply CSS properties while that conditon is true.  This helps with mobile first design and allows me to develop for screens of varying sizes.  Creates breakpoints where CSS can end and begin.
+Why is Flexbox valuable
+    allows you to orientate content and set to to change as the browser window changes.
+What is a function
+    Function is a object that preforms some type of action
+Git use and how it has helped
+    Git has allowed me to track my projects as well as give me freedom to experiment on them without risking losing data or fucntionality if I save over something on accident.
